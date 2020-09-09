@@ -1,24 +1,36 @@
-
 <h1 align="center">Hi 👋, I'm Neeru Kumar</h1>
-<h3 align="center">A passionate Machine Learning Engineer</h3>
-<p align="right"><img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
+
+  <a href="https://twitter.com/NeeruKu16667421">
+    <img align="left" alt="Neeru | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/neeru-kumar-a20b2b197/">
+    <img align="left" alt="Neeru's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/neerukumar22/">
+    <img align="left" alt="Neeru's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+
+<br />
+<br />
+
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+
+Hi, I'm Neeru Kumar, a Python Developer / Machine learning Engineer from India, currently Pursuing Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology Affiliated from Guru Gobind Singh Indraprasth University. I'm very passionate about learning new things and growing more and more in my field of working. <br />
+Looking forward to a career which requires the best of my professional ability in terms of technical and analytical skills, and helps me in improving and enhancing my current skills and knowledge. . I'm currently learning Deep Learning. Will upload some exciting content in the future.<br />
+I can gladly work with Python and Machine learning with database connectivity.<br />
+
 
 
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on **Deep Learning**
+- 💻 All of my projects are available at **(https://github.com/NeeruKumar)**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 📫 How to reach me: **neeruk752@gmail.com**<br />
+👨‍Seeking for someone to work in Python with Machine Learning.
 
-- 💬 Ask me about **Deep Learning, Machine Learning, Python**
+<br /> 
 
-- 📫 How to reach me **Neeruk752@gmail.com**
-
-
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeeruKumar&layout=compact&hide=html" alt="NeeruKumar" /></p>
-
-
-
-<p align="right"> 
-<a href="https://twitter.com/NeeruKu16667421" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/NeeruKu16667421" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/neeru-kumar-a20b2b197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/neeru-kumar-a20b2b197/" height="30" width="30" /></a>
-</p>
+**Languages and Tools:**  
+Python || Machine Learning || Deep Learning || MySQL 
