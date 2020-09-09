@@ -3,6 +3,9 @@
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 <p align="right"><img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /></p>
 
+
+**Talking about Personal Stuffs:**
+
 - 🔭 I’m currently working on **Deep Learning**
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
