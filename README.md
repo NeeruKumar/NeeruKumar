@@ -32,7 +32,7 @@ Looking forward to a career which requires the best of my professional ability i
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img align="left" src="https://img.icons8.com/doodle/48/000000/learning.png"/>
-<br />
+<img src="https://img.icons8.com/doodle/48/000000/learning.png"/>
+<br/>
 <img align="left" alt="Most Language Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeeruKumar">
 <img align="right" alt="NeeruKumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NeeruKumar&show_icons=true&theme=onedark">
