@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="center" height="350" width="600" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
 Hi, I'm Neeru Kumar, a Python Developer / Machine learning Engineer from India, currently Pursuing Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology. I'm very passionate about learning new things and growing more and more in my field of working.
