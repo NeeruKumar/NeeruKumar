@@ -11,7 +11,7 @@
   </a>
   
   
-<img align="center" height="350" width="600" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="center" height="400" width="700" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
 <h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Neeru Kumar, a Python Developer / Machine learning Engineer from India, currently Pursuing Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology. I'm very passionate about learning new things and growing more and more in my field of working.
