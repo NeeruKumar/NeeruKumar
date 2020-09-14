@@ -20,15 +20,16 @@ Looking forward to a career which requires the best of my professional ability i
 
 
 
-**Talking about Personal Stuffs:**
-
 - 🔭 I’m currently working on **Deep Learning**
 - 💻 All of my projects are available at **(https://github.com/NeeruKumar)**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning**
-- 📫 How to reach me: **neeruk752@gmail.com**<br />
-👨‍Seeking for someone to work in Python with Machine Learning.
+- 📫 How to reach me: **neeruk752@gmail.com**
+- 👨‍Seeking for someone to work in Python with Machine Learning.
 
 <br /> 
 
 **Languages and Tools:**  
-Python || Machine Learning || Deep Learning || MySQL 
+<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img align="left" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img align="left" src="https://img.icons8.com/doodle/48/000000/learning.png"/>
