@@ -14,7 +14,7 @@
 <img align="center" height="400" width="700" alt="GIF" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
-<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Neeru Kumar, a Python Developer / Machine learning Engineer from India, currently Pursuing Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology. I'm very passionate about learning new things and growing more and more in my field of working.
+<h3 align="center" style="font-family: Times New Roman;"><b><i>Hi, I'm Neeru Kumar, a Python Developer / Machine learning Engineer from India, currently Pursuing Bachelor of Technology(CSE) from Dr. Akhilesh Das Gupta Institute of Technology and Management. I'm very passionate about learning new things and growing more and more in my field of working.
 Looking forward to a career which requires the best of my professional ability in terms of technical and analytical skills, and helps me in improving and enhancing my current skills and knowledge. I'm currently learning Deep Learning. Will upload some exciting content in the future.
   I can gladly work with Python and Machine learning with database connectivity.</h3></i></b>
 
